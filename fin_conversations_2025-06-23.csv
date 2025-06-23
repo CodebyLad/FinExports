@@ -1,0 +1,163 @@
+id,created_at,rating,full_conversation
+196486700205819,2025-06-23T11:36:20,,"[User] What is a program
+
+[Fin]  In Sana, a Program is a versatile tool designed to create structured learning journeys for users. Programs guide learners through a series of steps they need to complete, allowing you to build comprehensive learning experiences. 
+ Programs are ideal for: 
+ - Creating structured learning paths 
+- Implementing blended learning with various formats (Live sessions, self-paced courses, emails) 
+- Automating content assignment and notifications 
+ A Program can include courses (both self-paced and live sessions), paths, and emails. It gives you extensive control over the learning experience through features like: 
+ - Automated enrollment based on user attributes 
+- Staggered content assignments 
+- Due date management 
+- Automated email communications 
+ Programs are particularly useful for onboarding or breaking down longer courses into manageable sections, creating a more organized learning experience. 
+ Sources: Programs: A beginners guide Sana's content hierarchy
+
+[Fin]  Is that what you were looking for?
+
+[User] how do i create a program
+
+[Fin]  To create a program in Sana: 
+ 1. Go to Manage > Programs 
+2. Click New program 
+3. Add a title and click Save 
+4. Click on settings to add an optional cover image, program description, and connected certificate, then save again 
+ After creating your program, you'll need to add content: 
+ 1. Go to the Content section and click Add content 
+2. Search and add your content, then click Save 
+3. For each step, you can choose when it's assigned (immediately, after completion of previous step, or on a fixed date) 
+4. You can also set due dates relative to the assignment date 
+ Remember that any course or Live session you want to add must be Published and Visible in Manage. 
+ To assign learners, you can create enrollment rules through the People tab to automatically enroll users based on specific criteria. 
+ Source: Programs: A beginners guide
+
+[Fin]  Was that helpful?
+
+[User] no
+
+[Fin]  I'm sorry it didn't help. Could you let me know what specifically didn't work for you? I'm here to assist further.
+
+[User] Talk to a person 👤"
+196486700205806,2025-06-23T08:25:45,,"[User] How to create a program
+
+[Fin]  To create a program in Sana, follow these steps: 
+ 1. Go to Manage > Programs 
+2. Click New program 
+3. Add a title and click Save 
+4. Click on settings to add optional elements: • Cover image • Program description • Connected certificate 
+ After creating your program, you'll need to: 
+ 1. Add content by going to the Content section and clicking Add content 
+2. Search and add your courses, which will become steps in your program 
+3. For each step, you can set assignment timing and due dates 
+4. Assign learners through the People tab by clicking Enroll 
+ You can also organize your program by creating sections to make it easier for learners to navigate through the content. 
+ Source: Programs: A beginners guide
+
+[Fin]  Did that answer your question?
+
+[User] what is a scroom file
+
+[Fin]  I think you're asking about SCORM files, not ""scroom"" files. 
+ SCORM (Shareable Content Object Reference Model) is a standard format that allows learning content to be shared between different Learning Management Systems (LMS). SCORM files are typically in.zip format and contain course content that can be imported into or exported from learning platforms like Sana. 
+ These files enable: 
+ - Seamless integration between different learning platforms 
+- Tracking of learner progress, completion status, scores, and time spent 
+- Single authentication (no need for additional logins) 
+- Centralized content updates 
+ In Sana, you can both import external SCORM files and export Sana courses as SCORM files to use in other systems. 
+ Sources: Exporting Sana Courses with SCORM Importing External Courses and Resources Introduction to SCORM Connector
+
+[Fin]  Is that what you were looking for?
+
+[User] i dont understand
+
+[Fin]  A SCORM file is a standardized format (Shareable Content Object Reference Model) that allows learning content to be shared between different Learning Management Systems (LMS). 
+ In Sana, SCORM files work as follows: 
+ 1. SCORM files create a ""shell"" that connects Sana with other learning platforms. 
+2. When a learner launches a SCORM course, they're authenticated and can access the content on Sana's servers without additional logins. 
+3. As learners progress, Sana sends key information back to the LMS, including completion status, scores, time spent, and pass/fail results. 
+ The benefits include: 
+ - Seamless integration between platforms 
+- Centralized content updates (no need to update files in multiple systems) 
+- Single authentication 
+- Rich analytics tracking 
+ You can both import external SCORM files into Sana and export Sana courses as SCORM files to use elsewhere. 
+ Sources: Exporting Sana Courses with SCORM Introduction to SCORM Connector Importing External Courses and Resources Insights Metrics Guide
+
+[Fin]  Is that what you were looking for?
+
+[User] human
+
+[Fin]  Would you like me to connect you with a human agent? Or if you provide more details about what you're trying to understand, I can try to assist you further.
+
+[User] yes"
+196486700205807,2025-06-23T08:33:26,,"[User] What is program
+
+[Fin]  A Program in Sana is a versatile tool that creates structured learning journeys for users. It's designed to guide learners through a series of steps they need to complete. 
+ Programs allow you to: 
+ - Build automated learning paths with courses, live sessions, and emails 
+- Create structured content with sections for better organization 
+- Set up staggered assignments that unlock content over time 
+- Automate enrollment based on user attributes 
+- Send automated emails to enhance engagement 
+ Programs are ideal for structured learning journeys, blended learning approaches, and when you need to automate content assignment. They offer more advanced features than Paths, including deadline management and customized notifications. 
+ For example, Svea Solar used Programs to automate their onboarding process, achieving 100% completion rates while growing from 700 to 1200 employees. 
+ Sources: Programs: A beginners guide Sana's content hierarchy
+
+[Fin]  Did that answer your question?
+
+[User] what is a scrom file
+
+[Fin]  SCORM (Shareable Content Object Reference Model) is a standard format that allows learning content to be shared between different Learning Management Systems (LMS). 
+ A SCORM file is essentially a packaged course that can be: 
+ - Exported from one LMS and imported into another 
+- Used to migrate courses between different learning platforms 
+- Created in Sana and then used in external systems 
+ SCORM files work as ""connectors"" that create a shell file (using SCORM 1.2 or 2004 standards) which, when uploaded to your LMS, gives learners immediate access to content while maintaining tracking of completion status, scores, time spent, and pass/fail information. 
+ This allows you to deliver Sana's adaptive learning content through your preferred LMS while keeping all the benefits of Sana's platform. 
+ Sources: Exporting Sana Courses with SCORM Introduction to SCORM Connector
+
+[Fin]  Did that answer your question?
+
+[User] no
+
+[Fin]  I'm sorry it didn't help. Could you clarify what you're looking for so I can assist you better?"
+196486700205800,2025-06-23T07:43:31,,"[User] what is a program
+
+[Fin]  In Sana, a Program is a versatile tool designed to create structured learning journeys for users. Programs allow you to build a sequential path of steps that learners need to complete, guiding them through various content types. 
+ Programs are ideal for: 
+ - Creating structured learning journeys 
+- Implementing blended learning with different formats (Live sessions, self-paced courses) 
+- Automating content assignment and notifications 
+ A Program can include courses (both self-paced and live sessions), paths, and emails. It gives you extensive control over the learning experience through features like staggered content assignments and automated enrollment rules. 
+ Programs are particularly useful for onboarding processes or breaking down longer courses into manageable sections, helping learners stay engaged and on track throughout their learning journey. 
+ Sources: Programs: A beginners guide Sana's content hierarchy
+
+[Fin]  Is that what you were looking for?
+
+[User] no
+
+[Fin]  I'm sorry it didn't meet your expectations. Could you clarify what you're looking for? I'm here to help!
+
+[User] Talk to a person 👤"
+196486700205798,2025-06-23T07:04:22,1,"[User] what is program
+
+[Fin]  A Program in Sana is a versatile tool that creates structured learning journeys for users. It's designed to guide learners through a series of steps they need to complete. 
+ Programs can include various content types like self-paced courses, live sessions, paths, and automated emails to create engaging learning experiences. 
+ Key features of Programs include: 
+ • Structured learning: Programs organize content in a linear, step-by-step journey 
+ • Automation: You can set up automatic enrollment rules based on user attributes 
+ • Staggered assignments: Content can be released on program start, after completion of previous steps, or on fixed dates 
+ • Due dates: Each step can have its own deadline to keep learners on track 
+ • Sections: You can organize content into collapsible sections for better organization 
+ Programs are particularly useful for onboarding, blended learning approaches, and creating comprehensive learning journeys that combine different content types. 
+ Sources: Programs: A beginners guide Sana's content hierarchy Program: Automated emails Programs: Staggered assignments Programs: Enrolling users
+
+[Fin]  Did that answer your question?
+
+[Fin]  If you still need help understanding Programs or have more questions, feel free to ask. Is there anything specific you'd like to dive deeper into?
+
+[Fin]  Help Sana AI understand how they’re doing:
+
+[Fin]  [Conversation Rating Request]"
